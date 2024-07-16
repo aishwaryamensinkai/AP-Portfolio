@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AP-Portfolio/static/css/main.c50e95f6.css",
+    "main.js": "/AP-Portfolio/static/js/main.83172a94.js",
+    "static/media/ABG.png": "/AP-Portfolio/static/media/ABG.c37dc98694c2a2bb9d4a.png",
+    "static/media/CAS.png": "/AP-Portfolio/static/media/CAS.2ee73922ff3d01a98332.png",
+    "static/media/Coursera.png": "/AP-Portfolio/static/media/Coursera.ef79354f53666042a2ea.png",
+    "static/media/photo.png": "/AP-Portfolio/static/media/photo.04101a475832f143c1ca.png",
+    "static/media/BetaGammaSigma.png": "/AP-Portfolio/static/media/BetaGammaSigma.12989dc84bb87defd3f4.png",
+    "static/media/Google Ads - Search Certification.png": "/AP-Portfolio/static/media/Google Ads - Search Certification.5b5e7da3b3f1b3d0edd3.png",
+    "static/media/Google_Data_Analytics_Certificate_Badge.png": "/AP-Portfolio/static/media/Google_Data_Analytics_Certificate_Badge.8e27a332d101f6cf0e34.png",
+    "static/media/Google Ads - Measurement Certification.png": "/AP-Portfolio/static/media/Google Ads - Measurement Certification.6e04c955ee198ea35b49.png",
+    "static/media/Google Ads - Display Certification.png": "/AP-Portfolio/static/media/Google Ads - Display Certification.f1f578489dab57d4bdfe.png",
+    "static/media/SixSIgmaGreenBelt.png": "/AP-Portfolio/static/media/SixSIgmaGreenBelt.5c84f21e86d8043036cb.png",
+    "static/media/logo.png": "/AP-Portfolio/static/media/logo.cb69bbb5c62ff7d7cee4.png",
+    "index.html": "/AP-Portfolio/index.html",
+    "static/media/blob-haikei.svg": "/AP-Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.c50e95f6.css.map": "/AP-Portfolio/static/css/main.c50e95f6.css.map",
+    "main.83172a94.js.map": "/AP-Portfolio/static/js/main.83172a94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50e95f6.css",
+    "static/js/main.83172a94.js"
+  ]
+}
